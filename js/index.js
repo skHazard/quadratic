@@ -23,5 +23,6 @@ function quad(){
     
 };
 
+quad();
 
 
